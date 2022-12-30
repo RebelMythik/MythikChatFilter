@@ -1,0 +1,6 @@
+name: MythikChatFilter
+version: '${project.version}'
+main: me.rebelmythik.mythikchatfilter.MythikChatFilter
+api-version: 1.19
+authors: [ RebelMythik ]
+description: Plugin to block / help moderate chat

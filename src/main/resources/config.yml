@@ -1,0 +1,20 @@
+equivalent-characters:
+  i:
+    - '1'
+    - 'l'
+  e:
+    - '3'
+  a:
+    - '4'
+    - '@'
+  s:
+    - '5'
+    - '$'
+  o:
+    - '0'
+  t:
+    - '7'
+blocked-messages:
+  - spam
+  - advertise
+  - rude language
